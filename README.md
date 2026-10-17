@@ -1,2 +1,10 @@
 # My-Coding-Journey
-My journey of learning programming from the beginning 
+Hello! I am a beginner learning programming.
+
+## My Goals
+- Learning programming step by step.
+- Build my first projects.
+- Practice using GitHub.
+
+## My Progress
+I have created my first GitHub repository.
